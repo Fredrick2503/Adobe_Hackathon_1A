@@ -53,7 +53,7 @@ A lightweight, optimized system for structural header extraction from PDF docume
 - Integrate better sentence transformers for semantic section grouping
 - Add multilingual support (CJK, RTL scripts) and Unicode normalization
 - Use **whitespace, margin alignment**, and visual cues (e.g., lines, boxes)
-- Implement GPT-based **section summarization and relevance scoring**
+- Implement LLM-based **section summarization and relevance scoring**
 - Add support for **interactive PDF elements** and linked TOC reconstruction
 - Enable **real-time PDF processing** for up to 5–10 documents/minute with GPU optimization
 
